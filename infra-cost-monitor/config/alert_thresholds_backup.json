@@ -1,0 +1,23 @@
+[
+    {
+        "service": "all",
+        "threshold_amount": 1.0,
+        "threshold_percentage": 10.0,
+        "time_window_hours": 24,
+        "alert_type": "cost_spike"
+    },
+    {
+        "service": "all",
+        "threshold_amount": 500.0,
+        "threshold_percentage": 100.0,
+        "time_window_hours": 24,
+        "alert_type": "budget_exceeded"
+    },
+    {
+        "service": "all",
+        "threshold_amount": 1.0,
+        "threshold_percentage": 5.0,
+        "time_window_hours": 1,
+        "alert_type": "anomaly"
+    }
+] 

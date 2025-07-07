@@ -1,0 +1,11 @@
+{
+    "slack_webhook_url": "https://hooks.slack.com/services/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",
+    "email_smtp_server": "smtp.gmail.com",
+    "email_smtp_port": 587,
+    "email_username": "",
+    "email_password": "",
+    "email_recipients": [],
+    "escalation_recipients": [],
+    "alert_cooldown_minutes": 30,
+    "max_alerts_per_hour": 10
+}

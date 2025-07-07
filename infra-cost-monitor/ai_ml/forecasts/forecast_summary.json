@@ -1,0 +1,15 @@
+{
+  "total_services_forecasted": 7,
+  "forecast_days": 30,
+  "forecast_date": "2025-07-04 12:25:12",
+  "total_forecast_value": 62144.21308912366,
+  "services": [
+    "Kubernetes Engine",
+    "Cloud Storage",
+    "Compute Engine",
+    "BigQuery",
+    "Cloud Run",
+    "Cloud SQL",
+    "Cloud Functions"
+  ]
+}

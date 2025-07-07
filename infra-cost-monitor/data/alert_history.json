@@ -1,0 +1,78 @@
+[
+  {
+    "type": "anomaly",
+    "service": "Compute Engine",
+    "anomaly_score": 1.0,
+    "cost_impact": 17427.11,
+    "timestamp": "2025-07-04T12:24:56.339550",
+    "severity": "high"
+  },
+  {
+    "type": "anomaly",
+    "service": "BigQuery",
+    "anomaly_score": 1.0,
+    "cost_impact": 3041.8,
+    "timestamp": "2025-07-04T12:24:57.815835",
+    "severity": "high"
+  },
+  {
+    "type": "anomaly",
+    "service": "Cloud SQL",
+    "anomaly_score": 1.0,
+    "cost_impact": 7582.31,
+    "timestamp": "2025-07-04T12:24:59.213455",
+    "severity": "high"
+  },
+  {
+    "type": "anomaly",
+    "service": "Kubernetes Engine",
+    "anomaly_score": 1.0,
+    "cost_impact": 2194.58,
+    "timestamp": "2025-07-04T12:25:00.608415",
+    "severity": "high"
+  },
+  {
+    "type": "anomaly",
+    "service": "Cloud Functions",
+    "anomaly_score": 1.0,
+    "cost_impact": 1520.84,
+    "timestamp": "2025-07-04T12:25:01.976337",
+    "severity": "high"
+  },
+  {
+    "type": "anomaly",
+    "service": "Cloud Storage",
+    "anomaly_score": 1.0,
+    "cost_impact": 812.29,
+    "timestamp": "2025-07-04T12:25:03.348919",
+    "severity": "high"
+  },
+  {
+    "type": "anomaly",
+    "service": "Pub/Sub",
+    "anomaly_score": 1.0,
+    "cost_impact": 626.58,
+    "timestamp": "2025-07-04T12:25:04.713351",
+    "severity": "high"
+  },
+  {
+    "type": "anomaly",
+    "service": "Cloud Run",
+    "anomaly_score": 1.0,
+    "cost_impact": 2917.11,
+    "timestamp": "2025-07-04T12:25:06.106513",
+    "severity": "high"
+  },
+  {
+    "type": "cost_spike",
+    "service": "daily_total",
+    "current_cost": 2917.11,
+    "previous_cost": 771.42,
+    "increase_amount": 2145.69,
+    "increase_percentage": 278.1480905343393,
+    "threshold_amount": 1.0,
+    "threshold_percentage": 10.0,
+    "timestamp": "2025-07-04T12:25:07.504577",
+    "severity": "high"
+  }
+]

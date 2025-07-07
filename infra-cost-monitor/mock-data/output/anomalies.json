@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2024-12-15",
+    "service": "Compute Engine",
+    "cost_impact": 19522.62,
+    "description": "Spike in compute costs due to Black Friday traffic",
+    "severity": "MEDIUM",
+    "detected_at": "2025-07-04 17:59:22"
+  },
+  {
+    "date": "2025-01-20",
+    "service": "BigQuery",
+    "cost_impact": 2599.78,
+    "description": "Massive BigQuery usage spike during data migration",
+    "severity": "MEDIUM",
+    "detected_at": "2025-07-04 17:59:22"
+  },
+  {
+    "date": "2025-02-10",
+    "service": "Cloud SQL",
+    "cost_impact": 4143.67,
+    "description": "Database performance issues causing increased costs",
+    "severity": "MEDIUM",
+    "detected_at": "2025-07-04 17:59:22"
+  },
+  {
+    "date": "2025-03-05",
+    "service": "Kubernetes Engine",
+    "cost_impact": 5397.95,
+    "description": "K8s cluster scaling anomaly during deployment",
+    "severity": "MEDIUM",
+    "detected_at": "2025-07-04 17:59:22"
+  },
+  {
+    "date": "2025-04-12",
+    "service": "Cloud Functions",
+    "cost_impact": 2094.41,
+    "description": "Function execution spike during API load testing",
+    "severity": "MEDIUM",
+    "detected_at": "2025-07-04 17:59:22"
+  },
+  {
+    "date": "2025-05-18",
+    "service": "Cloud Storage",
+    "cost_impact": 1034.15,
+    "description": "Storage cost anomaly due to backup operations",
+    "severity": "MEDIUM",
+    "detected_at": "2025-07-04 17:59:22"
+  },
+  {
+    "date": "2025-06-25",
+    "service": "Pub/Sub",
+    "cost_impact": 1260.01,
+    "description": "Message processing spike during event processing",
+    "severity": "MEDIUM",
+    "detected_at": "2025-07-04 17:59:22"
+  },
+  {
+    "date": "2025-07-08",
+    "service": "Cloud Run",
+    "cost_impact": 2078.6,
+    "description": "Container scaling issue during traffic surge",
+    "severity": "MEDIUM",
+    "detected_at": "2025-07-04 17:59:22"
+  }
+]

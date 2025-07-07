@@ -1,0 +1,13 @@
+{
+  "total_anomalies": 8,
+  "total_cost_impact": 38131.19,
+  "current_month_cost": 2078.6,
+  "current_month_days": 1,
+  "last_month_cost": 43175.2,
+  "last_month_days": 30,
+  "current_date_cost": 2078.6,
+  "total_records": 2018,
+  "mtd_records": 13,
+  "daily_records": 366,
+  "composite_records": 2018
+}
